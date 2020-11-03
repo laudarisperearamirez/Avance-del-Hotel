@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dxpPCE2HlZbU0Npr3tBp6+US7wrdBT7+4lbWRTvrMXboOP31QGUePWXvrkSBiSr332jzduO4os0tHpXDHVQw8Q==",
+  "success": true,
+  "projectFilePath": "D:\\Pack Prog Web\\avance\\neruda\\Entidad\\Entidad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LAUDARIS\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
